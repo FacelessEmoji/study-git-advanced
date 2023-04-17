@@ -1,1 +1,1 @@
-test java project with git rebase
+testing push from ide
